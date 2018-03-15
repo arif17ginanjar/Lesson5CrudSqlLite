@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Lesson5CrudSqlLite</string>
+    <string name="buat_biodata_baru">Buat Biodata Baru</string>
+    <string name="number">Number</string>
+    <string name="nama">Nama</string>
+    <string name="tanggal_lahir">Tanggal Lahir</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="l_atau_p">L atau P</string>
+    <string name="alamat">Alamat</string>
+    <string name="simpan">Simpan</string>
+    <string name="kembali">Kembali</string>
+    <string name="textview">TextView</string>
+    <string name="title_activity_buatbiodata">Buat Biodata</string>
+    <string name="title_activity_lihatbiodata">Lihat Biodata</string>
+    <string name="title_activity_updatebiodata">Update Biodata</string>
+</resources>
